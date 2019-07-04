@@ -1,5 +1,5 @@
 {
-  "name": "scheduler",
+  "name": "@remax/scheduler",
   "version": "0.13.6",
   "description": "Cooperative scheduler for the browser environment.",
   "main": "index.js",
